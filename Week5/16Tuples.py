@@ -1,5 +1,5 @@
 '''
-Name: Arad Soutehkeshan
+Name: Arad Soutehkeshan and Amir :D & Asal
 Student ID: 001347318
 Date: Monday, October 23th, 2023
 Version: Python 3.9.6
